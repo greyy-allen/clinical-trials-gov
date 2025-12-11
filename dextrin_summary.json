@@ -1,0 +1,3113 @@
+[
+  {
+    "nctId": "NCT06699537",
+    "title": "Lacticaseibacillus Rhamnosus LRa05 for Alleviating Allergic Rhinitis in Children",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-12-01",
+    "start_year": 2024,
+    "conditions": [
+      "Allergic Rhinitis (AR)"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "probiotic product",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 70,
+    "sponsor": "Wecare Probiotics Co., Ltd."
+  },
+  {
+    "nctId": "NCT05810337",
+    "title": "Splenda: Effects on Blood Glucose Concentration, Appetite Scores and Subsequent Energy Intake",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-01-18",
+    "start_year": 2023,
+    "conditions": [
+      "Appetitive Behavior",
+      "Glucose Metabolism Disorders"
+    ],
+    "keywords": [
+      "Blood glucose",
+      "Appetite",
+      "Energy intake"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Splenda drink",
+        "Maltodextrin drink",
+        "High carbohydrate breakfast"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 51,
+    "sponsor": "King's College London"
+  },
+  {
+    "nctId": "NCT05986253",
+    "title": "BioDulse II: The Effect of an Irish Seaweed Protein Extract on Glucose Control in Adults With Type 2 Diabetes",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-08-07",
+    "start_year": 2023,
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Seaweed protein",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 10,
+    "sponsor": "University of Limerick"
+  },
+  {
+    "nctId": "NCT06680102",
+    "title": "Probiotic Ameliorates Adult Allergic Rhinitis and Modulates Gut Microbiota",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-11-25",
+    "start_year": 2024,
+    "conditions": [
+      "Allergic Rhinitis"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Probiotic",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 78,
+    "sponsor": "Wecare Probiotics Co., Ltd."
+  },
+  {
+    "nctId": "NCT06987279",
+    "title": "Lactobacillus Plantarum and Hormonal Regulation in Obese Women",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-06-10",
+    "start_year": 2025,
+    "conditions": [
+      "Obesity, Women"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Probiotic",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 100,
+    "sponsor": "Wecare Probiotics Co., Ltd."
+  },
+  {
+    "nctId": "NCT06297083",
+    "title": "Analysing HIgh Dose Probiotic Peanut Oral Immunotherapy (PPOIT) and High Dose Peanut Oral Immunotherapy (OIT) Versus LOw Dose Peanut OIT for Peanut Allergy",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "start_date": "2024-05-11",
+    "start_year": 2024,
+    "conditions": [
+      "Peanut Allergy"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Peanut Oral Powder [PEANUT POWDER]",
+        "Probiotic (LGG®, Lactobacillus Rhamnosus) or placebo probiotic (maltodextrin)"
+      ],
+      "intervention_types": [
+        "DRUG",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 0,
+    "sponsor": "Murdoch Childrens Research Institute"
+  },
+  {
+    "nctId": "NCT06426134",
+    "title": "Ketosis Impact on Signs & Symptoms of Schizophrenia and Bipolar disorderS",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-12-01",
+    "start_year": 2024,
+    "conditions": [
+      "Schizophrenia and Related Disorders",
+      "Psychosis",
+      "Bipolar and Related Disorders",
+      "Manic Episode",
+      "Depressive Episode"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "(R)-3-hydroxybutyl (R)-3-hydroxybutyrate)",
+        "Maltodextrin, Fructose, Pectin, Sodium alginate, Sodium chloride"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "OTHER"
+      ]
+    },
+    "enrollment": 24,
+    "sponsor": "Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)"
+  },
+  {
+    "nctId": "NCT05178667",
+    "title": "Food Supplement Effect on Overweight or Moderate Obesity",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-01-06",
+    "start_year": 2022,
+    "conditions": [
+      "Obesity"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "High dose",
+        "Low dose",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 129,
+    "sponsor": "Institut Pasteur de Lille"
+  },
+  {
+    "nctId": "NCT05540132",
+    "title": "Slow Digestible Carbohydrates and Exercise in Adolescents with Type 1 Diabetes",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-07-15",
+    "start_year": 2023,
+    "conditions": [
+      "Type 1 Diabetes",
+      "Hypoglycemia"
+    ],
+    "keywords": [
+      "adolescent",
+      "exercise",
+      "cgm"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "maltodextrin",
+        "super starch"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 20,
+    "sponsor": "State University of New York at Buffalo"
+  },
+  {
+    "nctId": "NCT06059911",
+    "title": "Pre-workout Supplementation and Basketball",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-06-15",
+    "start_year": 2022,
+    "conditions": [
+      "Sport Performance"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Multi-ingredient dietary supplement (caffeine, creatine monohydrate, β-alanine, citrulline malate, BCAA)",
+        "Placebo dietary supplement (97% maltodextrin)"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 36,
+    "sponsor": "Athanasios Z. Jamurtas"
+  },
+  {
+    "nctId": "NCT06993428",
+    "title": "A Trial With EMP16 in Preparation for Late Phase Studies",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "start_date": "2025-05-20",
+    "start_year": 2025,
+    "conditions": [
+      "Overweight or Obese",
+      "Obesity and Overweight"
+    ],
+    "keywords": [
+      "Obesity",
+      "Dose-escalation",
+      "EMP16",
+      "Overweight"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "EMP16-02 120 mg orlistat/40 mg acarbose",
+        "Alli® 60 mg",
+        "Vi-Siblin® S",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DRUG",
+        "DRUG",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 39,
+    "sponsor": "Empros Pharma AB"
+  },
+  {
+    "nctId": "NCT05480696",
+    "title": "Soluble Fibre Supplementation in NAFLD",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "start_date": "2022-09-09",
+    "start_year": 2022,
+    "conditions": [
+      "Non-Alcoholic Fatty Liver Disease",
+      "Non Alcoholic Steatohepatitis",
+      "Hepatic Steatosis"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Fructo-oligosaccharide enriched inulin supplement",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "OTHER"
+      ]
+    },
+    "enrollment": 60,
+    "sponsor": "McMaster University"
+  },
+  {
+    "nctId": "NCT05516641",
+    "title": "Prebiotics in Rectal Cancer",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-07-25",
+    "start_year": 2022,
+    "conditions": [
+      "Rectal Cancer"
+    ],
+    "keywords": [
+      "stage II",
+      "stage III",
+      "microbiome",
+      "prebiotic",
+      "racial disparities"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Soluble Corn Fiber",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 20,
+    "sponsor": "Ochsner Health System"
+  },
+  {
+    "nctId": "NCT07190989",
+    "title": "A Replicate Crossover Trial on Nutritional Supplementation in Association Football (Soccer)",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-09-21",
+    "start_year": 2025,
+    "conditions": [
+      "Healthy"
+    ],
+    "keywords": [
+      "actigraphy",
+      "ergogenic dietary supplements",
+      "replicate crossover",
+      "individual variability"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Nutritional Supplement",
+        "Maltodextrin (Placebo)"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 13,
+    "sponsor": "Aspire Academy"
+  },
+  {
+    "nctId": "NCT05690126",
+    "title": "Effect of Saffron Extract Supplementation on Emotional Well-being Alterations",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-12-08",
+    "start_year": 2022,
+    "conditions": [
+      "Mood Disturbance"
+    ],
+    "keywords": [
+      "Saffron extract",
+      "Depressive Symptoms",
+      "Fatigue",
+      "Emotional wellbeing",
+      "Sleep quality",
+      "Anxiety",
+      "Inflammation"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Saffron extract",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 50,
+    "sponsor": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement"
+  },
+  {
+    "nctId": "NCT06104917",
+    "title": "Effect of Maolactin on Gastrointestinal Tract (GIT) Health",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "start_date": "2024-02-21",
+    "start_year": 2024,
+    "conditions": [
+      "Gastrointestinal Dysfunction"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "High Dose Maolactin",
+        "Low Dose Maolactin",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DRUG",
+        "DRUG",
+        "DRUG"
+      ]
+    },
+    "enrollment": 91,
+    "sponsor": "RDC Clinical Pty Ltd"
+  },
+  {
+    "nctId": "NCT06561724",
+    "title": "Diet Supplementation With Prebiotics to Improve Gut Health in Egyptian Children",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-06-01",
+    "start_year": 2023,
+    "conditions": [
+      "Microbial Colonization",
+      "Gut Microbiota"
+    ],
+    "keywords": [
+      "Gut microbiome",
+      "Diarrhea",
+      "Irritable bowel syndrome",
+      "Inulin prebiotic",
+      "Metagenomic analysis",
+      "Fecal Secretory immunoglobulin A",
+      "Fecal short chain fatty acids"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Biscuits maltodextrin",
+        "Biscuits includes prebiotics tartoufa inulin",
+        "Biscuits includes prebiotics chicory inulin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 72,
+    "sponsor": "National Research Centre, Egypt"
+  },
+  {
+    "nctId": "NCT06239168",
+    "title": "Citrus Extract, Sleep and Mental Wellbeing",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-11-08",
+    "start_year": 2023,
+    "conditions": [
+      "Sleep Disturbance"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Citrus extract",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 40,
+    "sponsor": "Maastricht University Medical Center"
+  },
+  {
+    "nctId": "NCT06937190",
+    "title": "Pre-Sleep Creatine Enhances Anaerobic Power in Recreationally Active Females",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-04-01",
+    "start_year": 2025,
+    "conditions": [
+      "Anaerobic Performance",
+      "Sports Nutrition",
+      "Exercise Recovery",
+      "Muscle Fatigue",
+      "Creatine Supplementation",
+      "Recreational Physical Activity",
+      "Female Athletes"
+    ],
+    "keywords": [
+      "Creatine Monohydrate",
+      "Pre-Sleep Supplementation",
+      "Anaerobic Power",
+      "Wingate Test",
+      "Muscle Damage Markers",
+      "Creatine Kinase (CK)",
+      "Lactate Dehydrogenase (LDH)",
+      "Female Exercise Performance",
+      "Nutritional Ergogenic Aid",
+      "Resistance Training",
+      "Recovery Enhancement"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Creatine Monohydrate",
+        "Placebo (Maltodextrin)"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 24,
+    "sponsor": "Ankara Yildirim Beyazıt University"
+  },
+  {
+    "nctId": "NCT06956131",
+    "title": "Metabolite Changes Following Consumption Of Different Protein Drinks In Singapore Older Adults",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-05-29",
+    "start_year": 2025,
+    "conditions": [
+      "Aging",
+      "Protein Metabolism"
+    ],
+    "keywords": [
+      "Older adults",
+      "Metabolomics",
+      "Protein intake",
+      "Protein metabolism",
+      "Acute",
+      "Postprandial",
+      "Cognitive function",
+      "Mood",
+      "Appetite"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Casein Protein Isolate Drink",
+        "Whey Protein Isolate Drink",
+        "Soy Protein Isolate Drink",
+        "Maltodextrin Drink"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 32,
+    "sponsor": "National University of Singapore"
+  },
+  {
+    "nctId": "NCT04832412",
+    "title": "Effect of BrainPhyt, a Microalgae Based Ingredient on Cognitive Function in Healthy Older Subjects",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-09-01",
+    "start_year": 2022,
+    "conditions": [
+      "Healthy Aging",
+      "Dietary Supplement",
+      "Fucoxanthin",
+      "Cognitive Impairment",
+      "Neuroprotection",
+      "Mood",
+      "Stress",
+      "Sleep"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "BrainPhyt",
+        "100 % Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 66,
+    "sponsor": "Microphyt"
+  },
+  {
+    "nctId": "NCT06826716",
+    "title": "A Study to Assess the Effect of Libifem® (VL-GF-01) on Fertility in Women With Diminished Ovarian Reserve",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-02-10",
+    "start_year": 2025,
+    "conditions": [
+      "Female Fertility"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Fenugreek (Trigonella foenum graecum)",
+        "Placebo (Maltodextrin)"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 150,
+    "sponsor": "Vedic Lifesciences Pvt. Ltd."
+  },
+  {
+    "nctId": "NCT06284577",
+    "title": "Quality of Life and Gut Health in Pediatric Patients With Cystic Fibrosis",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-01-02",
+    "start_year": 2024,
+    "conditions": [
+      "Cystic Fibrosis in Children"
+    ],
+    "keywords": [
+      "Cystic Fibrosis",
+      "Children",
+      "Microbiota",
+      "Quality of life",
+      "Probiotic supplement",
+      "CFTR modulators",
+      "elexacaftor-tezacaftor-ivacaftor"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Multistrain Probiotic",
+        "Placebo - maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 40,
+    "sponsor": "Oslo University Hospital"
+  },
+  {
+    "nctId": "NCT06761443",
+    "title": "To Evaluate the Safety and Efficacy of Pediococcus Acidilactici PA53 in Relieving Constipation in Adults",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-02-25",
+    "start_year": 2025,
+    "conditions": [
+      "Constipation"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Probiotic",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 10,
+    "sponsor": "Wecare Probiotics Co., Ltd."
+  },
+  {
+    "nctId": "NCT04670133",
+    "title": "Inulin Supplementation During Sanative Therapy to Further Improve Periodontal Healing",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-01-01",
+    "start_year": 2024,
+    "conditions": [
+      "Periodontitis",
+      "Periodontal Diseases",
+      "Periodontal Pocket"
+    ],
+    "keywords": [
+      "Sanative therapy",
+      "Scaling and root planing"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Inulin",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 0,
+    "sponsor": "Brock University"
+  },
+  {
+    "nctId": "NCT05784545",
+    "title": "Dietary Supplementation With Blueberry in OA",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-05-22",
+    "start_year": 2023,
+    "conditions": [
+      "Knee Osteoarthritis"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Blueberry powder supplement",
+        "Maltodextrin supplementation"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 58,
+    "sponsor": "University of Exeter"
+  },
+  {
+    "nctId": "NCT05689684",
+    "title": "Arabinoxylan-oligosaccharides (AXOS) for the Management of Type-2 Diabetes",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-11-07",
+    "start_year": 2022,
+    "conditions": [
+      "Diabetes Type 2"
+    ],
+    "keywords": [
+      "AXOS",
+      "AG",
+      "XOS",
+      "metformin",
+      "gut microbiome",
+      "corn bran extract"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "AG+XOS+AXOS",
+        "Placebo Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 66,
+    "sponsor": "Lund University"
+  },
+  {
+    "nctId": "NCT05206253",
+    "title": "Effectiveness of Egg Versus Whey Protein Powder During Resistance Training",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-05-30",
+    "start_year": 2022,
+    "conditions": [
+      "Muscle Atrophy"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Whole egg powder",
+        "Whey protein powder",
+        "Maltodextrin placebo"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 115,
+    "sponsor": "University of Saskatchewan"
+  },
+  {
+    "nctId": "NCT05135351",
+    "title": "Study Using Prebiotics to Improve Gut Microbiome Diversity After Autologous Stem Cell Transplantation",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-04-13",
+    "start_year": 2022,
+    "conditions": [
+      "Multiple Myeloma",
+      "Lymphoma"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Resistant Starch",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 30,
+    "sponsor": "University of Nebraska"
+  },
+  {
+    "nctId": "NCT06628869",
+    "title": "The Effects of Oral Fructanase Administration on Gastrointestinal Symptoms After Inulin Challenge in Healthy Adults",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-11-04",
+    "start_year": 2024,
+    "conditions": [
+      "Digestive Health",
+      "Gastrointestinal Health",
+      "FODMAP Intolerance",
+      "Food Sensitivity"
+    ],
+    "keywords": [
+      "digestive enzyme",
+      "FODMAP",
+      "fructanase",
+      "inulinase",
+      "fructan hydrolyase",
+      "enzyme",
+      "food sensitivity",
+      "inulin",
+      "bloating",
+      "flatulence",
+      "fermentation",
+      "methane",
+      "hydrogen",
+      "dietary supplement",
+      "dietary fiber",
+      "food intolerance",
+      "fructan",
+      "oligosaccharide",
+      "fructooligosaccharide",
+      "inulinooligosaccharide",
+      "fructo-oligosaccharide",
+      "inulino-oligosaccharide",
+      "non-starch polysaccharidase",
+      "NSPase",
+      "carbohydrate-active enzyme",
+      "CAZyme",
+      "microbiome",
+      "metagenome",
+      "food challenge"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Fructanase",
+        "Maltodextrin placebo"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 30,
+    "sponsor": "BIO-CAT, Inc."
+  },
+  {
+    "nctId": "NCT06126094",
+    "title": "Benefits of Alcoholic Hangover Medicine",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-10-31",
+    "start_year": 2023,
+    "conditions": [
+      "Gastrointestinal Microbiome"
+    ],
+    "keywords": [
+      "Microbiota",
+      "Probiotics",
+      "Alcohol",
+      "Cognitive behaviour"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Myrkl",
+        "dextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 2,
+    "sponsor": "The Gut Microbiome Center (Centar za crijevni mikrobiom)"
+  },
+  {
+    "nctId": "NCT06138470",
+    "title": "Evaluation of the Effect of a Combination of Plants to Regulate Mood",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-05-30",
+    "start_year": 2022,
+    "conditions": [
+      "Mood Regulation"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Saffron extract",
+        "Scutellaria baicalensis extract",
+        "Saffron and Scutellaria baicalensis extract",
+        "Placebo (maltodextrin)"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 180,
+    "sponsor": "Comercial Quimica Masso, S.A"
+  },
+  {
+    "nctId": "NCT05485402",
+    "title": "Dietary Strategy to Tackle Sarcopenia in Early Elderly Subjects (FOOP-Sarc)",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-09-01",
+    "start_year": 2022,
+    "conditions": [
+      "Sarcopenia"
+    ],
+    "keywords": [
+      "early elderly",
+      "olive oil",
+      "prebiotic supplementation",
+      "muscle mass",
+      "muscle strength",
+      "physical performance"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Refined olive oil (38.6 mg hydroxytyrosol and tyrosol/kg oil)",
+        "Virgin olive oil rich in phenolic compounds (156 mg hydroxytyrosol and tyrosol/kg oil)",
+        "Maltodextrin",
+        "Prebiotic (FOS and inulin)",
+        "Nutritional and physical activity recommendations"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "OTHER"
+      ]
+    },
+    "enrollment": 135,
+    "sponsor": "University Rovira i Virgili"
+  },
+  {
+    "nctId": "NCT06547801",
+    "title": "Effects of Human Milk Oligosaccharide Ingestion on Weight Loss and Markers of Health",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-05-04",
+    "start_year": 2023,
+    "conditions": [
+      "Weight Loss"
+    ],
+    "keywords": [
+      "2'-Fucosyllactose",
+      "Inflammation",
+      "Functional capacity"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "2'-Fucosyllactose",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 60,
+    "sponsor": "Advanced Protein Technologies Corporation"
+  },
+  {
+    "nctId": "NCT06687343",
+    "title": "The Importance of Non-essential Amino Acids for Maintaining Skeletal Muscle Protein Synthesis Rates in Healthy Young Men",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-11-14",
+    "start_year": 2024,
+    "conditions": [
+      "Healthy Males"
+    ],
+    "keywords": [
+      "muscle protein synthesis",
+      "amino acids"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "EAA Supplement",
+        "NEAA Supplement",
+        "Maltodextrin Supplement"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 64,
+    "sponsor": "Maastricht University Medical Center"
+  },
+  {
+    "nctId": "NCT06081972",
+    "title": "Towards a Food Ingredient Clinically Proven to Benefit Gut Health: Novel RG-I Variants",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-10-02",
+    "start_year": 2023,
+    "conditions": [
+      "Healthy"
+    ],
+    "keywords": [
+      "prebiotic",
+      "short - chain fatty acids (SCFAs)",
+      "Plasmacytoid dendritic cell markers (PDCs)",
+      "gut microbiota",
+      "rhamnogalacturonan I",
+      "immune response"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Maltodextrin",
+        "Chicory RG-I",
+        "Carrot RG-I"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 81,
+    "sponsor": "Örebro University, Sweden"
+  },
+  {
+    "nctId": "NCT05451498",
+    "title": "Creatine Timing on Resistance Training Adaptations in College Athletes",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-02-09",
+    "start_year": 2022,
+    "conditions": [
+      "Healthy"
+    ],
+    "keywords": [
+      "supplementation",
+      "pre-workout",
+      "post-workout",
+      "peri-workout",
+      "strength",
+      "endurance",
+      "body composition",
+      "fat-free mass"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Creatine",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 47,
+    "sponsor": "Rocky Mountain University of Health Professions"
+  },
+  {
+    "nctId": "NCT06781827",
+    "title": "Research on the Use of Probiotics in the Prevention and Treatment of Inflammatory Bowel Disease",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-01-01",
+    "start_year": 2025,
+    "conditions": [
+      "Inflammatory Bowel Disease"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Probiotic",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 50,
+    "sponsor": "Wecare Probiotics Co., Ltd."
+  },
+  {
+    "nctId": "NCT06739408",
+    "title": "Protein Source and Resistance Training",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-01-21",
+    "start_year": 2025,
+    "conditions": [
+      "Healthy",
+      "No Condition"
+    ],
+    "keywords": [
+      "protein",
+      "skeletal muscle",
+      "resistance training",
+      "food",
+      "supplement",
+      "whey",
+      "meat"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Lean red meat",
+        "Whey protein",
+        "Maltodextrin (Placebo)"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 72,
+    "sponsor": "University College Cork"
+  },
+  {
+    "nctId": "NCT06873204",
+    "title": "Impact of Soluble Arabinoxylan and Rice Bran Fiber on the Gut Microbiome in Healthy Adults",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-07-11",
+    "start_year": 2025,
+    "conditions": [
+      "Healthy"
+    ],
+    "keywords": [
+      "Gut microbiota",
+      "Dietary fiber",
+      "Soluble arabinoxylan",
+      "Rice bran fiber",
+      "Intestinal health",
+      "Butyrate-producing bacteria",
+      "Clostridium cluster IVa",
+      "Short-Chain Fatty Acids"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Soluble Arabinoxylan",
+        "Rice Bran",
+        "Maltodextrin (Placebo)"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 25,
+    "sponsor": "Purdue University"
+  },
+  {
+    "nctId": "NCT07171411",
+    "title": "Combined Whey Protein and Collagen Supplementation in Resistance-Trained Men",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-01-03",
+    "start_year": 2024,
+    "conditions": [
+      "Muscle Hypertrophy",
+      "Bone Mineral Density Loss",
+      "Resistance Training Adaptation"
+    ],
+    "keywords": [
+      "Whey Protein",
+      "Collagen Peptides",
+      "Resistance Training",
+      "Muscle Mass",
+      "Bone Mineral Density",
+      "Bone Turnover Biomarkers",
+      "Strength Training",
+      "Protein Supplementation",
+      "Hypertrophy",
+      "Sports Nutrition"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Whey Protein + Collagen",
+        "Whey Protein",
+        "Collagen Peptides",
+        "Maltodextrin (Placebo)"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "OTHER"
+      ]
+    },
+    "enrollment": 40,
+    "sponsor": "Ankara Yildirim Beyazıt University"
+  },
+  {
+    "nctId": "NCT05405764",
+    "title": "The CONFUCIUS Oral Protein Supplementation Trial",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-04-19",
+    "start_year": 2022,
+    "conditions": [
+      "Intensive Care Unit Acquired Weakness",
+      "Critical Illness"
+    ],
+    "keywords": [
+      "Functional outcomes",
+      "Proteins",
+      "Intensive care unit"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Porcine protein supplement",
+        "Control product maltodextrin supplement"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 15,
+    "sponsor": "ARH van Zanten"
+  },
+  {
+    "nctId": "NCT06232642",
+    "title": "Effects of Lactoferrin-enriched Whey on Iron Status in Females",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-03-01",
+    "start_year": 2024,
+    "conditions": [
+      "Serum Ferritin"
+    ],
+    "keywords": [
+      "Lactoferrin",
+      "Iron",
+      "Serum Ferritin",
+      "Iron Status"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Lactoferrin, iron and B12 in Whey Protein",
+        "Lactoferrin, Iron and B12 in Rice Protein",
+        "Lactoferrin, Iron and B12 in Maltrodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 82,
+    "sponsor": "Utah State University"
+  },
+  {
+    "nctId": "NCT05801042",
+    "title": "Effect of Encapsulated Vs Free Probiotic on Brain Function",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-02-07",
+    "start_year": 2023,
+    "conditions": [
+      "Aging"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Maltodextrin",
+        "Encapsulated Lactocaseibacillus rhamnosus",
+        "Non-encapsulated Lactocaseibacillus rhamnosus"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 91,
+    "sponsor": "Robert Brummer"
+  },
+  {
+    "nctId": "NCT05769088",
+    "title": "Effects of a Multi-Ingredient Pre-Workout Supplement on Body Composition, Performance, Muscular Properties, and Wellbeing in Adults.",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-03-15",
+    "start_year": 2023,
+    "conditions": [
+      "Protein Deficiency",
+      "Training Group, Sensitivity",
+      "Fatigue",
+      "Muscular Atrophy",
+      "Psychological"
+    ],
+    "keywords": [
+      "Fatigue",
+      "Supplement",
+      "Protein",
+      "Resistance Training",
+      "Pre-workout",
+      "Strength",
+      "Rate of Perceived Exertion",
+      "Muscle"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Ingestion of a Pre-Workout Supplement",
+        "Ingestion of a Maltodextrin Supplement"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 40,
+    "sponsor": "Joel Puente"
+  },
+  {
+    "nctId": "NCT05744700",
+    "title": "Safety and Tolerability Trial of Microbial Inulinase",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-04-28",
+    "start_year": 2023,
+    "conditions": [
+      "Digestive Health",
+      "Gastrointestinal Health"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Inulinase",
+        "Maltodextrin placebo"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 60,
+    "sponsor": "BIO-CAT, Inc."
+  },
+  {
+    "nctId": "NCT05399316",
+    "title": "Inulin and the Gut Microbiota in Healthy Adults",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-06-15",
+    "start_year": 2022,
+    "conditions": [
+      "Gut Microbiota Dysbiosis and Nutrition"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Inulin",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 24,
+    "sponsor": "Experimental and Clinical Research Center"
+  },
+  {
+    "nctId": "NCT06798948",
+    "title": "Effect of the Combined Application of Cynara Scolymus, Silybum Marianum, Curcuma Longa, and Glycyrrhiza Glabra in Improving Metabolic Associated Fatty Liver Disease : a Randomized Clinical Trial",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "start_date": "2025-03-01",
+    "start_year": 2025,
+    "conditions": [
+      "Metabolic-associated Fatty Liver Disease (MAFLD)"
+    ],
+    "keywords": [
+      "Metabolic-associated fatty liver disease (MAFLD)",
+      "MRI-PDFF",
+      "Chinese Medcine"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Combination of cynara scolymus, silybum marianum, curcuma longa, and glycyrrhiza glabra",
+        "Placebo maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "OTHER"
+      ]
+    },
+    "enrollment": 100,
+    "sponsor": "Li Lab,MD"
+  },
+  {
+    "nctId": "NCT05528575",
+    "title": "Polyphenols, Prebiotics, the Gut Microbiome and Stress",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-01-01",
+    "start_year": 2022,
+    "conditions": [
+      "Stress, Psychological",
+      "Gut Bacteria"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Blueberry, cranberry, green tea extract, cocoa",
+        "GOS, Inulin, RS2",
+        "prebiotics and polyphenols",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 20,
+    "sponsor": "University of Reading"
+  },
+  {
+    "nctId": "NCT06852365",
+    "title": "Combined Oral Contraceptive Pill and Resistance Starch",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "start_date": "2025-06-10",
+    "start_year": 2025,
+    "conditions": [
+      "Metabolic Syndrome",
+      "Polycystic Ovary Syndrome"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "wheat dextrin",
+        "Oral Contraceptives, Low-Dose",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DRUG",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 100,
+    "sponsor": "University of Pennsylvania"
+  },
+  {
+    "nctId": "NCT04291469",
+    "title": "Antipsychotic Effects of Probiotics and Prebiotics on Patients With Schizophrenia",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-03-03",
+    "start_year": 2022,
+    "conditions": [
+      "Schizophrenia"
+    ],
+    "keywords": [
+      "Schizophrenia",
+      "Probiotics"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Probiotics（Live combined bifidobacteria, lactobacillus and maltodextrin tables)",
+        "Prebiotics (Combined inulin and maltodextrin tables)",
+        "maltodextrin"
+      ],
+      "intervention_types": [
+        "DRUG",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 200,
+    "sponsor": "First Affiliated Hospital Xi'an Jiaotong University"
+  },
+  {
+    "nctId": "NCT05670314",
+    "title": "lIfestyle iNterventionS for PaIn ReliEf (INSPIRE)",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-05-01",
+    "start_year": 2022,
+    "conditions": [
+      "Osteoarthritis, Knee"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Inulin Fibre supplement",
+        "Maltodextrin (Placebo)",
+        "Exercise"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "BEHAVIORAL"
+      ]
+    },
+    "enrollment": 117,
+    "sponsor": "University of Nottingham"
+  },
+  {
+    "nctId": "NCT05306093",
+    "title": "Depressed Mood and Anhedonia in Healthy Adults",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-01-07",
+    "start_year": 2022,
+    "conditions": [
+      "Anhedonia",
+      "Depressed Mood"
+    ],
+    "keywords": [
+      "saffron extract"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Nutraceutical",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 94,
+    "sponsor": "Institut Pasteur de Lille"
+  },
+  {
+    "nctId": "NCT06584552",
+    "title": "LaCE (Lactobacillus Paracasei LPB27 On Early Childhood Eczema)",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "start_date": "2024-11-15",
+    "start_year": 2024,
+    "conditions": [
+      "Eczema",
+      "Allergy"
+    ],
+    "keywords": [
+      "Immunology",
+      "Microbiome",
+      "Paediatrics"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Lactobacillus Paracasei LPB27",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "OTHER"
+      ]
+    },
+    "enrollment": 100,
+    "sponsor": "The University of New South Wales"
+  },
+  {
+    "nctId": "NCT05392348",
+    "title": "Human Gut Microbiota and microRNA Expression",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-05-25",
+    "start_year": 2022,
+    "conditions": [
+      "Gut Microbiota",
+      "microRNA"
+    ],
+    "keywords": [
+      "stachyose",
+      "gut microbiota",
+      "microRNA"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "stachyose",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 36,
+    "sponsor": "Xijing Hospital"
+  },
+  {
+    "nctId": "NCT06729671",
+    "title": "A Probiotic Strategy for Antipsychotic-induced Metabolic Dysfunction",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-05-16",
+    "start_year": 2024,
+    "conditions": [
+      "Psychosis"
+    ],
+    "keywords": [
+      "microbiota",
+      "antipsychotic",
+      "weight gain"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Bifidobacterium longum APC1472 hydroxypropylmethylcellulose (HPMC) capsule",
+        "maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 70,
+    "sponsor": "University College Cork"
+  },
+  {
+    "nctId": "NCT05632341",
+    "title": "GCWB1176 Evaluates the Effectiveness and Safety of Immune Function",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-01-17",
+    "start_year": 2023,
+    "conditions": [
+      "Immune Function"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Lactococcus lactis",
+        "maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "OTHER"
+      ]
+    },
+    "enrollment": 100,
+    "sponsor": "Green Cross Wellbeing"
+  },
+  {
+    "nctId": "NCT05443490",
+    "title": "Clinical Trial to Evaluate the Effect of a Probiotic Mixture in the Treatment of Atopic Dermatitis in Children",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-10-11",
+    "start_year": 2025,
+    "conditions": [
+      "Atopic Dermatitis"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Probiotic mixture with three bacterial strains with maltodextrin as a carrier.",
+        "Placebo comparator with maltodextrin as a carrier."
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "OTHER"
+      ]
+    },
+    "enrollment": 150,
+    "sponsor": "Bionou Research, S.L."
+  },
+  {
+    "nctId": "NCT06883292",
+    "title": "The Effects of Tyrosol and Creatine on Endurance, Strength, and Fatigue Resistance in Healthy Adults",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-03-24",
+    "start_year": 2025,
+    "conditions": [
+      "Tyrosol",
+      "Creatine",
+      "Endurance Performance",
+      "Cognition"
+    ],
+    "keywords": [
+      "tyrosol",
+      "creatine",
+      "muscle strength",
+      "muscle endurance",
+      "muscle recovery",
+      "muscle performance",
+      "reaction time"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Tyrosol",
+        "Creatine",
+        "Resistant Dextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 50,
+    "sponsor": "Applied Science & Performance Institute"
+  },
+  {
+    "nctId": "NCT07276009",
+    "title": "Probiotics in Functional Dyspepsia",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-12-01",
+    "start_year": 2025,
+    "conditions": [
+      "Functional Dyspepsia"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Lactobacillus",
+        "Maltodextrin (Placebo)"
+      ],
+      "intervention_types": [
+        "OTHER",
+        "OTHER"
+      ]
+    },
+    "enrollment": 60,
+    "sponsor": "Nordic Biotic Sp. z o.o."
+  },
+  {
+    "nctId": "NCT06465407",
+    "title": "Collagen Protein Versus Placebo on Muscle Recovery",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-07-01",
+    "start_year": 2024,
+    "conditions": [
+      "Anthropometrics: Height and Weight",
+      "Isometric Standing and Seated Plantarflexion",
+      "Calf Muscle Thickness",
+      "Achilles Tendon Length and Thickness",
+      "Myotonography of the Calf Musculature and Achilles Tendon",
+      "Pain Pressure Threshold of the Calf",
+      "Pain Scale",
+      "Endurance Calf Test",
+      "Dietary Analysis"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Collagen",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 36,
+    "sponsor": "University of Central Florida"
+  },
+  {
+    "nctId": "NCT06566157",
+    "title": "PROMOTE: The Effect of a Six Week Prebiotic Supplementation on Wellbeing of Young Adults.",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-01-06",
+    "start_year": 2025,
+    "conditions": [
+      "Wellbeing",
+      "Healthy",
+      "Mental Health"
+    ],
+    "keywords": [
+      "Prebiotics",
+      "Gut microbiome",
+      "Microbiome",
+      "Metabolomics",
+      "Sequencing",
+      "Stress",
+      "Wellbeing"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Prebiotic",
+        "Maltodextrin (Corn)"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 70,
+    "sponsor": "University of Southampton"
+  },
+  {
+    "nctId": "NCT06551961",
+    "title": "Effect of Chronic Feeding of Inulin And Methylcellulose on Colonic Fermentation",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-09-30",
+    "start_year": 2024,
+    "conditions": [
+      "Irritable Bowel Syndrome"
+    ],
+    "keywords": [
+      "inulin",
+      "fermentation",
+      "colon",
+      "gas"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "methylcellulose",
+        "inulin",
+        "maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 35,
+    "sponsor": "University of Nottingham"
+  },
+  {
+    "nctId": "NCT06770283",
+    "title": "Spirulina Tablets Treat Liver Fibrosis/Cirrhosis",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-12-26",
+    "start_year": 2024,
+    "conditions": [
+      "Liver Cirrhosis"
+    ],
+    "keywords": [
+      "Liver cirrhosis"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Spirulina tablet",
+        "Maltodextrin (Placebo)"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 10,
+    "sponsor": "Second Affiliated Hospital, School of Medicine, Zhejiang University"
+  },
+  {
+    "nctId": "NCT05906589",
+    "title": "Exploring Mechanism of Action of Dietary Fibre on the Gut Microbiota and Metabolites",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-07-25",
+    "start_year": 2023,
+    "conditions": [
+      "Psyllium",
+      "Inulin"
+    ],
+    "keywords": [
+      "Dietary fibre",
+      "Dietary fiber",
+      "Gut microbiota"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Inulin",
+        "Psyllium",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 42,
+    "sponsor": "University of Aberdeen"
+  },
+  {
+    "nctId": "NCT06433037",
+    "title": "Gut-brain Health Effects of PREbiotics in Older Adults With Suspected COgnitive DEcline",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-07-16",
+    "start_year": 2024,
+    "conditions": [
+      "Subjective Cognitive Decline"
+    ],
+    "keywords": [
+      "gut-brain axis",
+      "working memory",
+      "gut health",
+      "dietary fibres",
+      "prebiotics"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Chicory inulin",
+        "Resistant dextrin",
+        "Seaweed polysaccharide",
+        "Placebo"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 164,
+    "sponsor": "Wageningen University"
+  },
+  {
+    "nctId": "NCT05772988",
+    "title": "Beta-alanine Supplementation and CrossFit Performance",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-03-15",
+    "start_year": 2023,
+    "conditions": [
+      "Exercise-Induced Lactic Acidemia"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Beta-alanine",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 12,
+    "sponsor": "University of Saskatchewan"
+  },
+  {
+    "nctId": "NCT06041087",
+    "title": "Bone and Inflammatory Outcomes - Nutrition and Exercise Trials",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-11-01",
+    "start_year": 2023,
+    "conditions": [
+      "Healthy",
+      "Bone",
+      "Inflammation"
+    ],
+    "keywords": [
+      "Bone health",
+      "Females",
+      "Dairy",
+      "Exercise",
+      "Inflammation"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "High-Intensity Exercise",
+        "Carbohydrate (Maltodextrin powder mixed with water)",
+        "Skim Milk",
+        "Greek yogurt",
+        "Water"
+      ],
+      "intervention_types": [
+        "BEHAVIORAL",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 25,
+    "sponsor": "York University"
+  },
+  {
+    "nctId": "NCT05849350",
+    "title": "Protein Supplementation in Pilates Training",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-01-20",
+    "start_year": 2023,
+    "conditions": [
+      "Exercise Training",
+      "Dietary Supplements"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Whey protein",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 20,
+    "sponsor": "Aristotle University Of Thessaloniki"
+  },
+  {
+    "nctId": "NCT06570330",
+    "title": "Adult HMO Supplementation and the Gut Microbiome",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-09-11",
+    "start_year": 2024,
+    "conditions": [
+      "Healthy Adults"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "SuperHMO",
+        "Non-GMO corn Maltodextrin, Rapid Absorption"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 32,
+    "sponsor": "Seeding, Inc DBA Tiny Health"
+  },
+  {
+    "nctId": "NCT05971992",
+    "title": "INulin-type Fructans-induced Gut Microbiota Modulation Impact on GUT-SKIN Axis Parameters in Psoriasis",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-02-02",
+    "start_year": 2023,
+    "conditions": [
+      "Psoriasis"
+    ],
+    "keywords": [
+      "prebiotics",
+      "inulin-type fructans",
+      "chronic skin inflammation",
+      "inflammatory mediators and cytokines",
+      "intestinal barrier permeability",
+      "Psoriasis Area and Severity Index",
+      "dysbiosis",
+      "metabolic dysregulation",
+      "nutritional status",
+      "anthropometric indices",
+      "indirect respirometry",
+      "functional multi-sugars absorption test",
+      "quality of life",
+      "characteristics of gut microbiota",
+      "short-chain fatty acids",
+      "immunohistological skin analysis",
+      "gene expression",
+      "oxidative stress",
+      "volatile organic compounds"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Chicory-derived inulin-type β-fructans",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 56,
+    "sponsor": "Polish Academy of Sciences"
+  },
+  {
+    "nctId": "NCT07097389",
+    "title": "In Vivo Human Study on Commercial Cellobiose as a Potential Prebiotic Candidate",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-07-31",
+    "start_year": 2024,
+    "conditions": [
+      "Gut -Microbiota",
+      "As a Preliminary Study, Healthy Population&#39;s Gut Microbiota is Studied to See if Cellobiose Supplementation is Altering the Microbial Community or Not"
+    ],
+    "keywords": [
+      "cellobiose",
+      "preliminary in vivo human study"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Cellobiose",
+        "Oligofructose P95",
+        "Maltodextrin (Placebo)"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 37,
+    "sponsor": "Manxi Huang"
+  },
+  {
+    "nctId": "NCT05845983",
+    "title": "LA Improves the Prognosis of Patients With ICVD",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-05-04",
+    "start_year": 2023,
+    "conditions": [
+      "Ischemia",
+      "Cerebrovascular Ischemia",
+      "Cognitive Impairment"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Lactobacillus acidophilus",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 236,
+    "sponsor": "Huaqiu Zhang"
+  },
+  {
+    "nctId": "NCT05900609",
+    "title": "Gut Health Enhancement by Eating Favourable Food",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-05-22",
+    "start_year": 2023,
+    "conditions": [
+      "Microbial Colonization"
+    ],
+    "keywords": [
+      "Fiber",
+      "Fermented food",
+      "Immune system",
+      "Microbiota"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "WholeFiber",
+        "Kombucha",
+        "Maltodextrin DE19/21"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 146,
+    "sponsor": "VU University of Amsterdam"
+  },
+  {
+    "nctId": "NCT06412042",
+    "title": "Probiotic in Infant Growth, Allergy and Immunity Study",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-06-15",
+    "start_year": 2024,
+    "conditions": [
+      "Healthy",
+      "Infant ALL"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Probiotic BLa80",
+        "Placebo Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "OTHER"
+      ]
+    },
+    "enrollment": 40,
+    "sponsor": "Wecare Probiotics Co., Ltd."
+  },
+  {
+    "nctId": "NCT06836024",
+    "title": "A Trial of Actazin Versus PEG 3350 for Maintenance Therapy in Children With Constipation",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "PHASE2; PHASE3",
+    "start_date": "2025-06-01",
+    "start_year": 2025,
+    "conditions": [
+      "Constipation - Functional",
+      "Constipation",
+      "Constipation Aggravated"
+    ],
+    "keywords": [
+      "Functional Constipation",
+      "Pediatric Constipation",
+      "Actazin",
+      "Kiwifruit Extract",
+      "Polyethylene Glycol 3350",
+      "Laxative Therapy",
+      "Randomized Controlled Trial",
+      "Feasibility Study",
+      "Non-Pharmacologic Treatment",
+      "Rome IV Criteria"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Actazin chewable tablet",
+        "PEG 3350",
+        "Chewable Tablet",
+        "Maltodextrin (Placebo)"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DRUG",
+        "OTHER",
+        "OTHER"
+      ]
+    },
+    "enrollment": 60,
+    "sponsor": "Hamilton Health Sciences Corporation"
+  },
+  {
+    "nctId": "NCT06620406",
+    "title": "Synbiotic Therapy for NP-PASC",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-12-09",
+    "start_year": 2024,
+    "conditions": [
+      "Post-Acute COVID-19 Syndrome",
+      "Long COVID-19"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Synbiotic IVS-1",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 36,
+    "sponsor": "Columbia University"
+  },
+  {
+    "nctId": "NCT05282485",
+    "title": "Mitigating Infectious Morbidity and Growth Deficits in HIV Exposed Uninfected infanTs With Human Milk Oligosaccharides",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-06-02",
+    "start_year": 2022,
+    "conditions": [
+      "HIV",
+      "Infant Morbidity",
+      "Breast Feeding"
+    ],
+    "keywords": [
+      "HIV",
+      "Infant Morbidity",
+      "Infant Growth",
+      "Breastmilk",
+      "Probiotic",
+      "Synbiotic",
+      "HIV-exposed Uninfected Infants",
+      "B. infantis",
+      "Human Milk Oligosaccharides",
+      "2'-Fucosyllactose",
+      "Infant neurodevelopment"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Synbiotic",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 140,
+    "sponsor": "Columbia University"
+  },
+  {
+    "nctId": "NCT05416151",
+    "title": "Effect of B.Lactis Consumption on Gastro-Intestinal (GI) Symptoms in Healthy Women Reporting Minor GI Symptoms",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-05-24",
+    "start_year": 2022,
+    "conditions": [
+      "Gastro-intestinal Symptoms in Healthy Subjects"
+    ],
+    "keywords": [
+      "Gastro intestinal symptoms",
+      "Healthy women",
+      "Freeze-dried probiotic product",
+      "Randomized controlled trial"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Freeze-dried biotic",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "OTHER",
+        "OTHER"
+      ]
+    },
+    "enrollment": 486,
+    "sponsor": "Danone Global Research & Innovation Center"
+  },
+  {
+    "nctId": "NCT05946083",
+    "title": "The Brain, the Bug, and the Binge: the Interplay Between Binge Drinking, Gut Microbiota, and Brain Functioning",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "start_date": "2023-02-24",
+    "start_year": 2023,
+    "conditions": [
+      "Binge Drinking"
+    ],
+    "keywords": [
+      "Adolescence",
+      "Young Adulthood",
+      "Alcohol",
+      "Binge Drinking",
+      "Gut Microbiome",
+      "Microbiota-Gut-Brain Axis",
+      "Magnetic Resonance Imaging",
+      "Pro-inflammatory cytokines",
+      "Psychobiotics",
+      "Randomized Controlled Trial"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Inulin Intervention",
+        "Maltodextrin Intervention"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 82,
+    "sponsor": "University of Minho"
+  },
+  {
+    "nctId": "NCT07193927",
+    "title": "Investigation of the Efficacy of a Probiotic Mixture in Moderate Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD): A Mechanistic Trial",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-10-13",
+    "start_year": 2025,
+    "conditions": [
+      "MASLD - Metabolic Dysfunction-Associated Steatotic Liver Disease",
+      "Fatty Liver Disease, Nonalcoholic",
+      "Overweight (BMI &gt; 25)"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Lactiplantibacillus plantarum Probiotic Mixture",
+        "Placebo comparator containing maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 60,
+    "sponsor": "AB Biotics, SA"
+  },
+  {
+    "nctId": "NCT06920667",
+    "title": "Effect of a Protein-Creatine-Omega3-Vitamin D Supplement on Glycemic Variability in Mexican Patients With Type 2 Diabetes",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-06-01",
+    "start_year": 2025,
+    "conditions": [
+      "Type 2 Diabetes Mellitus"
+    ],
+    "keywords": [
+      "Glycemic Variability",
+      "Recently Diagnosed Diabetes",
+      "Nutrition Intervention",
+      "Continuous Glucose Monitoring",
+      "Metabolic Biomarkers",
+      "Gut Microbiota",
+      "Type 2 Diabetes Mellitus"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Protein-Creatine-Omega-3-Vitamin D Supplement",
+        "Placebo (Maltodextrin)"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 40,
+    "sponsor": "Héctor Iván Saldívar Cerón"
+  },
+  {
+    "nctId": "NCT05372601",
+    "title": "Prebiotics and Stress Reduction in Women",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-02-17",
+    "start_year": 2022,
+    "conditions": [
+      "Stress, Psychological"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Relax+",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 124,
+    "sponsor": "FrieslandCampina"
+  },
+  {
+    "nctId": "NCT05201651",
+    "title": "Creatine and Motor Skill Acquisition",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "start_date": "2022-02-10",
+    "start_year": 2022,
+    "conditions": [
+      "Young Healthy Adults (no Medical Condition/Disease)"
+    ],
+    "keywords": [
+      "motor learning",
+      "transcranial magnetic stimulation",
+      "motor cortex",
+      "corticospinal excitability",
+      "creatine"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Creatine Monohydrate",
+        "Maltodextrin Placebo"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 36,
+    "sponsor": "University of Regina"
+  },
+  {
+    "nctId": "NCT06682715",
+    "title": "Impact of Nutrition Education and Whey Supplementation on Body Composition and Endurance Performance of Athletes",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-01-01",
+    "start_year": 2025,
+    "conditions": [
+      "Healthy"
+    ],
+    "keywords": [
+      "athlete",
+      "body composition",
+      "whey supplementation",
+      "endurance performance"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "whey protein",
+        "maltodextrin",
+        "nutrition education"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "BEHAVIORAL"
+      ]
+    },
+    "enrollment": 20,
+    "sponsor": "University of Veterinary and Animal Sciences, Lahore - Pakistan"
+  },
+  {
+    "nctId": "NCT06576986",
+    "title": "Effect of Synbiotic Supplementation on the Prevention of Mucositis in Cancer Patients Undergoing Chemotherapy",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-12-12",
+    "start_year": 2023,
+    "conditions": [
+      "Colo-rectal Cancer"
+    ],
+    "keywords": [
+      "colorectal cancer",
+      "symbiotic",
+      "Mucositis",
+      "diarrhea",
+      "chemotherapy"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Symbiotic",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 80,
+    "sponsor": "Federal University of Minas Gerais"
+  },
+  {
+    "nctId": "NCT07201909",
+    "title": "CALM Study: Can A Prebiotic Fibre bLend Improve Stress, Mood, and Anxiety?",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-10-02",
+    "start_year": 2025,
+    "conditions": [
+      "Stress"
+    ],
+    "keywords": [
+      "gut-brain axis",
+      "perceived stress",
+      "prebiotic fibre",
+      "cognitive function",
+      "anxiety",
+      "mood",
+      "depression",
+      "inflammation"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Prebiotic fibre blend",
+        "Maltodextrin powder"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 156,
+    "sponsor": "Myota GmbH"
+  },
+  {
+    "nctId": "NCT05769101",
+    "title": "Effects of a Recovery Supplement on Body Composition, Performance, Muscular Properties, and Wellbeing",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-02-01",
+    "start_year": 2022,
+    "conditions": [
+      "Protein Deficiency",
+      "Training Group, Sensitivity",
+      "Fatigue",
+      "Muscular Atrophy",
+      "Psychological"
+    ],
+    "keywords": [
+      "Fatigue",
+      "Supplement",
+      "Protein",
+      "Creatine",
+      "Resistance Training",
+      "Recovery",
+      "Strength",
+      "Rate of Perceived Exertion",
+      "Muscle"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Ingestion of a Post-Workout Supplement",
+        "Ingestion of a Maltodextrin Supplement"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 20,
+    "sponsor": "Joel Puente"
+  },
+  {
+    "nctId": "NCT06728098",
+    "title": "Safety and Tolerability Evaluation of Akkermansia Muciniphila",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-11-25",
+    "start_year": 2025,
+    "conditions": [
+      "Healthy"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Probiotic",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 108,
+    "sponsor": "Wecare Probiotics Co., Ltd."
+  },
+  {
+    "nctId": "NCT05963594",
+    "title": "To Evaluate the Post-Prandial Metabolic Effects of Oligomalt in Adults With T2D and in HAO",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2023-01-23",
+    "start_year": 2023,
+    "conditions": [
+      "Dietary Supplement"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Oligomalt",
+        "maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 44,
+    "sponsor": "Société des Produits Nestlé (SPN)"
+  },
+  {
+    "nctId": "NCT06528041",
+    "title": "Impact of Native Chicory Inulin on Change and Persistence of Gut Microbiota",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-08-01",
+    "start_year": 2024,
+    "conditions": [
+      "Healthy"
+    ],
+    "keywords": [
+      "Gut microbiota",
+      "inulin",
+      "prebiotics",
+      "Bifidobacterium"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Inulin",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "OTHER",
+        "OTHER"
+      ]
+    },
+    "enrollment": 52,
+    "sponsor": "Purdue University"
+  },
+  {
+    "nctId": "NCT04543877",
+    "title": "WHNRC (Western Human Nutrition Research Center) Fiber Intervention Study",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "start_date": "2022-09-27",
+    "start_year": 2022,
+    "conditions": [
+      "Inflammation",
+      "Vaccine",
+      "Intestinal Permeability",
+      "Typhoid Fever"
+    ],
+    "keywords": [
+      "Gastrointestinal Health",
+      "Intestinal Permeability",
+      "Vaccine Response",
+      "Inflammation",
+      "Ty21a Typhoid Vaccine",
+      "Typhoid Fever",
+      "Microbiome",
+      "Bifidobacterium"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Inulin",
+        "Maltodextrin",
+        "Ty21a Typhoid Fever Vaccine"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "BIOLOGICAL"
+      ]
+    },
+    "enrollment": 60,
+    "sponsor": "USDA, Western Human Nutrition Research Center"
+  },
+  {
+    "nctId": "NCT05074862",
+    "title": "Effects of Ketosis on Muscle Kinetics and Signaling During Critical Illness.",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "start_date": "2023-01-01",
+    "start_year": 2023,
+    "conditions": [
+      "Intensive Care Unit Acquired Weakness",
+      "Critical Illness"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "KetoneAid KE4 Pro Monoester",
+        "Maltodextrin and fat-based placebo"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 10,
+    "sponsor": "Aarhus University Hospital"
+  },
+  {
+    "nctId": "NCT05329480",
+    "title": "Cardiac and Vascular Responses to Creatine Supplementation in Elderly Men",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-02-09",
+    "start_year": 2022,
+    "conditions": [
+      "Cardiac Function and Hemodynamics"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Creatine Monohydrate",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 45,
+    "sponsor": "Radford University"
+  },
+  {
+    "nctId": "NCT05882214",
+    "title": "Metabolic Changes Induced by NMN in Healthy Subjects With Acute Binge Drink",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "PHASE1; PHASE2",
+    "start_date": "2024-05-01",
+    "start_year": 2024,
+    "conditions": [
+      "Binge Drinking",
+      "Liver Injury",
+      "Nutritional Supplementation",
+      "Hepatic Steatosis"
+    ],
+    "keywords": [
+      "β-nicotinamide mononucleotide",
+      "Acute alcohol intake",
+      "Nutritional supplementation",
+      "Liver"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "β-nicotinamide Mononucleotide",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 22,
+    "sponsor": "Zhejiang Chinese Medical University"
+  },
+  {
+    "nctId": "NCT05519800",
+    "title": "The Metabolic Effects of Ultra-endurance Exercise and Training Under Low or High Glycaemic Index-carbohydrate Diets.",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2022-10-01",
+    "start_year": 2022,
+    "conditions": [
+      "A Randomised Counter-balanced Intervention Study in Endurance Athletes"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Isomaltulose",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 10,
+    "sponsor": "Swansea University"
+  },
+  {
+    "nctId": "NCT06281600",
+    "title": "An Intervention Study Using HMOs to Improve IBS Symptoms",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-02-20",
+    "start_year": 2024,
+    "conditions": [
+      "Irritable Bowel Syndrome"
+    ],
+    "keywords": [
+      "Gut microbiome",
+      "IBS",
+      "Human milk oligosaccharides"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Human milk oligosaccharide",
+        "Maltodextrin placebo"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 44,
+    "sponsor": "Glenn Gibson"
+  },
+  {
+    "nctId": "NCT07013409",
+    "title": "Probiotics' Effects on Hormones, Body and Mood in Obese Women",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-07-01",
+    "start_year": 2025,
+    "conditions": [
+      "Obesity, Women"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Probiotic",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 100,
+    "sponsor": "Wecare Probiotics Co., Ltd."
+  },
+  {
+    "nctId": "NCT07271576",
+    "title": "Research on the Protective Effects of Phycocyanin Against Liver Fibrosis and Cirrhosis",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-06-04",
+    "start_year": 2025,
+    "conditions": [
+      "Liver Fibrosis",
+      "Liver Cirrhosis"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "phycocyanin",
+        "Maltodextrin (Placebo)"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "OTHER"
+      ]
+    },
+    "enrollment": 10,
+    "sponsor": "Second Affiliated Hospital, School of Medicine, Zhejiang University"
+  },
+  {
+    "nctId": "NCT07263217",
+    "title": "Mechanistic Study on the Protective and Regenerative Effects of Spirulina in Hepatectomy-Related Liver Injury",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2025-10-01",
+    "start_year": 2025,
+    "conditions": [
+      "Cholangiocarcinoma"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "Spirulina",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 30,
+    "sponsor": "Second Affiliated Hospital, School of Medicine, Zhejiang University"
+  },
+  {
+    "nctId": "NCT06403137",
+    "title": "Plant Protein Blend and Milk Protein Supplements in Older Individuals",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-06-20",
+    "start_year": 2024,
+    "conditions": [
+      "Sarcopenia",
+      "Skeletal Muscle Atrophy",
+      "Protein Malnutrition"
+    ],
+    "keywords": [
+      "Muscle protein synthesis"
+    ],
+    "interventions": {
+      "intervention_names": [
+        "Resistance exercise",
+        "Standardized diet",
+        "Plant protein supplement",
+        "Maltodextrin supplement",
+        "Milk protein supplement"
+      ],
+      "intervention_types": [
+        "BEHAVIORAL",
+        "BEHAVIORAL",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 42,
+    "sponsor": "Maastricht University Medical Center"
+  },
+  {
+    "nctId": "NCT06544278",
+    "title": "The Impact of Probiotics on Sperm Quality in Middle-aged Men",
+    "status": null,
+    "study_type": "INTERVENTIONAL",
+    "phase": "NA",
+    "start_date": "2024-08-30",
+    "start_year": 2024,
+    "conditions": [
+      "Sperm Quality"
+    ],
+    "keywords": [],
+    "interventions": {
+      "intervention_names": [
+        "probiotic product",
+        "Maltodextrin"
+      ],
+      "intervention_types": [
+        "DIETARY_SUPPLEMENT",
+        "DIETARY_SUPPLEMENT"
+      ]
+    },
+    "enrollment": 46,
+    "sponsor": "Wecare Probiotics Co., Ltd."
+  }
+]
